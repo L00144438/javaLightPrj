@@ -1,4 +1,4 @@
-import java.util.Scanner;		/*used for input added comment*/
+import java.util.Scanner;		/*used for input added comment changed return text*/
 
 public class calc
 {
@@ -12,6 +12,6 @@ public class calc
 				System.out.println("Enter Num 2: ");
 				num2 = input.nextInt();
 						/*calculate the addition and print to screen*/
-				System.out.println("Answer " + (num1+num2));
+				System.out.println("Answer = " + (num1+num2));
 		}
 }
