@@ -1,5 +1,5 @@
 import java.util.Scanner;		/*used for input added comment changed return text*/
-
+/*added a comment*/
 public class calc
 {
 		public static void main(String[] args)
